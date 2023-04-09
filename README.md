@@ -35,9 +35,9 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: I’m working as a Freelancer on web3.
 
-- :seedling: Exploring Blockchain.
+- :seedling: Exploring Solidity.
 
-- :zap: In my free time, I solve problems on my Websites and read tech articles.
+- :zap: In my free time, I solve problems on Blockchain and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
