@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kiril-petkov-5079611bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.kirilpetkov.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC7eMxONt1FwqK_O8L5cHNYg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
